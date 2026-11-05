@@ -1,0 +1,5 @@
+name: dart_mqtt_client
+description: MQTT v3.1.1 client with QoS levels
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
